@@ -4,7 +4,7 @@
   "description": "DevOps CI/CD Sample Project",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit"
   },
   "dependencies": {
     "express": "^5.2.1"
