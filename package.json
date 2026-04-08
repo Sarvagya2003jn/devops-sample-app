@@ -1,0 +1,16 @@
+{
+  "name": "devops-sample-app",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.2.2"
+  }
+}
